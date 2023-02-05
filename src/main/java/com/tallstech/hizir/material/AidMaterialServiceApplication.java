@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HizirAidMaterialServiceApplication {
+public class AidMaterialServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HizirAidMaterialServiceApplication.class, args);
+		SpringApplication.run(AidMaterialServiceApplication.class, args);
 	}
 
 }
